@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = diogoprado1511@gmail.com
+	name = Diogo Prado
